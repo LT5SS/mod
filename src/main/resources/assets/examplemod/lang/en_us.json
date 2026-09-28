@@ -1,0 +1,21 @@
+{
+    "item.examplemod.ruby": "Ruby",
+    "item.examplemod.enchanted_ruby_apple": "Enchanted Ruby Apple",
+    "item.examplemod.ruby_sword": "Ruby Sword",
+    "item.examplemod.ruby_pickaxe": "Ruby Pickaxe",
+    "item.examplemod.ruby_axe": "Ruby Axe",
+    "item.examplemod.ruby_shovel": "Ruby Shovel",
+    "item.examplemod.ruby_hoe": "Ruby Hoe",
+    "item.examplemod.ruby_helmet": "Ruby Helmet",
+    "item.examplemod.ruby_chestplate": "Ruby Chestplate",
+    "item.examplemod.ruby_leggings": "Ruby Leggings",
+    "item.examplemod.ruby_boots": "Ruby Boots",
+    "item.examplemod.fire_staff": "Fire Staff",
+    "item.examplemod.lightning_staff": "Staff of Thunder",
+    "item.examplemod.item_magnet": "Loot Magnet",
+    "item.examplemod.warp_gem": "Warp Blink Gem",
+    "block.examplemod.ruby_block": "Block of Ruby",
+    "block.examplemod.ruby_ore": "Ruby Ore",
+    "block.examplemod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+    "creativetab.ruby_tab": "Ruby Arsenal & Magic"
+}

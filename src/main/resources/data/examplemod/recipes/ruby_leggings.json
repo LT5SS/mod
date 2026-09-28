@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": {
+            "item": "examplemod:ruby"
+        }
+    },
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "result": {
+        "item": "examplemod:ruby_leggings"
+    }
+}

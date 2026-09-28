@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "R": {
+            "item": "examplemod:ruby"
+        }
+    },
+    "pattern": [
+        " R ",
+        "RER",
+        " R "
+    ],
+    "result": {
+        "item": "examplemod:warp_gem"
+    }
+}

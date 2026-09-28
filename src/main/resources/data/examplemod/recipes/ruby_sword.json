@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": {
+            "item": "examplemod:ruby"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "#",
+        "#",
+        "/"
+    ],
+    "result": {
+        "item": "examplemod:ruby_sword"
+    }
+}

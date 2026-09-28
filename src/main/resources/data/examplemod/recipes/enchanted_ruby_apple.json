@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "item": "examplemod:ruby_block"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        }
+    },
+    "pattern": [
+        "BBB",
+        "BAB",
+        "BBB"
+    ],
+    "result": {
+        "item": "examplemod:enchanted_ruby_apple"
+    }
+}

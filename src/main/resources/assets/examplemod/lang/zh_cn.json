@@ -1,0 +1,21 @@
+{
+    "item.examplemod.ruby": "红宝石",
+    "item.examplemod.enchanted_ruby_apple": "附魔红宝石苹果",
+    "item.examplemod.ruby_sword": "红宝石剑 (攻击附带点燃与虚弱)",
+    "item.examplemod.ruby_pickaxe": "红宝石镐",
+    "item.examplemod.ruby_axe": "红宝石斧",
+    "item.examplemod.ruby_shovel": "红宝石锹",
+    "item.examplemod.ruby_hoe": "红宝石锄",
+    "item.examplemod.ruby_helmet": "红宝石头盔",
+    "item.examplemod.ruby_chestplate": "红宝石胸甲",
+    "item.examplemod.ruby_leggings": "红宝石护腿",
+    "item.examplemod.ruby_boots": "红宝石靴子",
+    "item.examplemod.fire_staff": "烈焰法杖 (右键发射火球)",
+    "item.examplemod.lightning_staff": "雷霆权杖 (右键召唤落雷)",
+    "item.examplemod.item_magnet": "磁铁护符 (自动吸附周围8格掉落物)",
+    "item.examplemod.warp_gem": "虚空闪现石 (右键向前瞬移)",
+    "block.examplemod.ruby_block": "红宝石块",
+    "block.examplemod.ruby_ore": "红宝石矿石",
+    "block.examplemod.deepslate_ruby_ore": "深层红宝石矿石",
+    "creativetab.ruby_tab": "红宝石军工与魔法"
+}
